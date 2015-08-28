@@ -1,0 +1,1 @@
+When pulling in from git will have to reintroduce password to mongodb path, could do with config file in future instead.
